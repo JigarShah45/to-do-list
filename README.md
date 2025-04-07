@@ -48,14 +48,9 @@ https://github.com/JigarShah45/to-do-list.git
 
 ---
 
-## 🧠 Concepts Used
+## 🔗 Visit My Project
 
-- DOM Manipulation
-- Event Handling
-- Array Methods (`forEach`, `push`, `splice`)
-- Prompt & Alert
-- `localStorage` for data persistence
-- Dynamic HTML Element Creation
+🌐 **Live Demo**: [Click Here to Open 🚀](https://jigarshah45.github.io/to-do-list/)
 
 ---
 
