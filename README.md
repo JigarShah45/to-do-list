@@ -19,7 +19,6 @@ A simple and user-friendly To-Do List web application built using HTML, CSS, and
 - HTML5
 - CSS3
 - JavaScript 
-
 ---
 
 ## 💡 How It Works
@@ -33,16 +32,9 @@ A simple and user-friendly To-Do List web application built using HTML, CSS, and
 
 ---
 
-
 ## 🔗 Visit My Project
 
 🌐 **Live Demo**: [Click Here to Open 🚀](https://jigarshah45.github.io/to-do-list/)
-
----
-
-## 📬 Feedback
-
-If you have any suggestions or want to contribute, feel free to open an issue or fork the repo!
 
 ---
 
