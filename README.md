@@ -19,7 +19,6 @@ A simple and user-friendly To-Do List web application built using HTML, CSS, and
 - HTML5
 - CSS3
 - JavaScript 
-- Browser `localStorage`
 
 ---
 
@@ -34,19 +33,6 @@ A simple and user-friendly To-Do List web application built using HTML, CSS, and
 
 ---
 
-## 📸 Screenshots
-![image](https://github.com/user-attachments/assets/cad7635a-a2e7-4537-b4f0-9a9e31f24c9d)
-
----
-
-## 🌐 How to Run Locally
-
-1. Download or clone the repository:
-https://github.com/JigarShah45/to-do-list.git
-
-2. Open `index.html` in any modern browser.
-
----
 
 ## 🔗 Visit My Project
 
